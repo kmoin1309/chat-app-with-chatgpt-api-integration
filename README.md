@@ -1,8 +1,4 @@
-[<img alt="KeyStrokes" height="50px" src="images/KeyStrokes.png" />](https://www.youtube.com/@Key_Strokes) [<img alt="KeyStrokes" height="50px" src="images/YT.png" />](https://www.youtube.com/@Key_Strokes)
 
-Support me:
-
-[<img alt="KeyStrokes" height="50px" src="images/bmc.png" />](https://www.buymeacoffee.com/keystrokes) [<img alt="KeyStrokes" height="50px" src="images/KoFi.png" />](https://ko-fi.com/keystrokes) [<img alt="KeyStrokes" height="50px" src="images/Patreon.jpg" />](https://patreon.com/KeyStrokes)
 
 # Chat App with ChatGPT API Integration
 
