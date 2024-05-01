@@ -10,7 +10,7 @@ Start the server using
 npm run dev
 ```
 
-Access the Chat page at http://localhost:3000/chat
+Access the Chat page at http://16.171.153.4/chat
 
 ## Preview
 ![](images/app.png)
